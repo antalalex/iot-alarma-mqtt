@@ -1,4 +1,7 @@
 # iot-alarma-mqtt
+
+LINK WOKWI PROIECT: https://wokwi.com/projects/453168515648644097
+
 Proiect IoT: sistem de alarmă bazat pe ESP32 și MQTT, cu detectare de mișcare și transmitere de evenimente către HiveMQ Cloud.
 
 # Sistem de alarmă IoT bazat pe MQTT
